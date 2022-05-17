@@ -15,12 +15,20 @@ Ich bin x Jahre alt - Mənim x yaşım var
 Ich wohne in x - Mən x'da yaşayıram
 
 
-### SÖZLƏR(ÜMUMİ)
-witching - vacib
-weich - yumşaq
-schlecht - pis
-wachsen - bitmək,böyümək
-text - mətn
+
+### ŞƏXS ƏVƏZLİKLƏRİ
+
+#TƏK
+ich - mən
+du - sən
+er - o (kişi cinsi)
+sie - o (qadın cinsi)
+
+#CƏM
+wir - biz
+sie - siz
+ihr - onlar
+
 
 
 ### SÖZLƏR(ÜMUMİ)
@@ -59,6 +67,12 @@ verwandte - qohum
 mann - kişi
 karte - xəritə
 kind - uşaq
+singen - oxumaq
+arbieten - işləmək
+lesen - oynamaq
+hören - dinləmək
+sommeln - toplamaq
+speilen -dinləmək
 
 
 witching - vacib
